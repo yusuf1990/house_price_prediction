@@ -1,1 +1,2 @@
 lightgbm==3.3.2
+sklearn==1.2.2
